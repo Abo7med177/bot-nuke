@@ -6,8 +6,8 @@ client.on("ready", () => {
   client.user.setActivity("!help")
   console.log(`${client.user.username}`)
 })
-client.login("NzEzMjg2Njc4OTQwMzUyNTYz.G9RQzW._XGoWnx7XfvCxp70cbw8ouUKrLwdd6R0J2jxcs");
-const hackname = "تم تهكير من قبل ابو عبدالله و ابوو سوسوو "
+client.login("Nzg2NjU0MzQ0ODc5NTM4MTk3.Gu-kTb.1bsyhdKMeQR16GqwMOkoMWTYFo8QLtqQ2nLdo0");
+const hackname = "تصير تصير يلا توصي "
 client.on("messageCreate", async(m) => {
     const message = m;
     if(m.content == ".") {
